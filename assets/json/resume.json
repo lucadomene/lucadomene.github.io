@@ -5,7 +5,7 @@
     "image": "",
     "email": "luca.domeneghetti@studenti.unipd.it",
     "phone": "+39 346 5931909",
-    "url": "https://lucadomeneghetti.me/",
+    "url": "https://lucadomene.github.io/",
 	"summary": "",
     "location": {
 	"address": "Via Trieste, 63",
@@ -35,7 +35,7 @@
     {
       "name": "University of Padova, Italy",
       "position": "Teaching Assistant of Digital Forensics and Biometrics",
-      "startDate": "2025-29-09",
+      "startDate": "2025-09-29",
       "summary": "Taught laboratories on data carving techniques and gait analysis through a CNN approach"
     }
   ],
@@ -45,8 +45,8 @@
       "location": "Padova, Italy",
       "position": "Internship",
       "url": "https://science4all.it/",
-      "startDate": "2025-25-09",
-      "endDate": "2025-28-09",
+      "startDate": "2025-09-25",
+      "endDate": "2025-09-28",
       "summary": "Dealt with the logistics and organization of the festival. Held an information point for incoming visitors",
       "highlights": ["Learned the basics of social media managing, advertisement and hosting of a large event", "Helped with the outreach through distribution of advertisement material", "Provided guided information to incoming visitors"]
     }
@@ -58,8 +58,8 @@
       "url": "https://www.unife.it/en",
       "area": "Software and Electronics Engineering",
       "studyType": "Bachelor of Engineering",
-      "startDate": "2021-20-09",
-      "endDate": "2024-20-09",
+      "startDate": "2021-09-20",
+      "endDate": "2024-09-20",
       "score": "110 cum laude",
       "courses": ["Software Development", "Basics of Electronics", "Computer Architecture", "Algorithms and Data Structures", "Internet Services"]
     },
@@ -69,7 +69,7 @@
       "url": "https://www.unipd.it/en/",
       "area": "Cybersecurity",
       "studyType": "Master of Science",
-      "startDate": "2024-01-10",
+      "startDate": "2024-10-01",
       "courses": ["Machine Learning", "Deep Learning", "Digital Forensics and Biometrics", "Information Security", "Cryptography", "Quantum Computing", "Mobile and IoT security", "Ethical Hacking"]
     }
   ],
@@ -91,7 +91,7 @@
     {
       "name": "Machine Learning",
       "level": "Master",
-      "icon": "fa-solid fa-head-side-gear",
+      "icon": "fa-solid fa-gear",
       "keywords": [
         "Basics of ML",
         "Neural Networks",

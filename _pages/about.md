@@ -6,13 +6,13 @@ subtitle: Made in 2002 in Ferrara, Italy
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: profile_pic.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>University of Padova</p>
-    <p><a href='https://www.math.unipd.it/en/'>Department of Mathematics</a></p>
-    <p><a href='https://www.dei.unipd.it/en/'>Department of Information Engineering</a></p>
-    <p>Student of <strong>Master of Science in Cybersecurity</strong></p>
+    <p><a href='https://www.math.unipd.it/en/'>Dep. of Mathematics</a></p>
+    <p><a href='https://www.dei.unipd.it/en/'>Dep. of Information Eng.</a></p>
+    <p><strong>MSc in Cybersecurity</strong></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
