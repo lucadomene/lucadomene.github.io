@@ -58,6 +58,20 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
+        },{id: "nav-activities",
+          title: "activities",
+          description: "My running and cycling journey via Garmin Connect.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/activities/";
+          },
+        },{id: "nav-photography",
+          title: "photography",
+          description: "A collection of my photography work with metadata.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/photography/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -504,6 +518,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/domeneghetti-luca", "_blank");
+        },
+      },{
+        id: 'social-strava',
+        title: 'Strava',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.strava.com/athletes/71618641", "_blank");
         },
       },{
         id: 'social-whatsapp',
