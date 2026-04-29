@@ -12,16 +12,8 @@ I use **Garmin Connect** to track my training. Here are some of my featured acti
 <div class="activities-container">
   {% for activity in site.data.garmin_activities %}
   <div class="garmin-card shadow-sm p-3 mb-5 bg-body rounded border">
-    <h5 class="text-center mb-3">
-        {% if activity.type == "run" %}
-            <i class="fa-solid fa-person-running"></i>
-        {% else %}
-            <i class="fa-solid fa-bicycle"></i>
-        {% endif %}
-        {{ activity.title }}
-    </h5>
     <div class="ratio ratio-16x9" style="min-height: 500px;">
-        <iframe src='https://connect.garmin.com/modern/activity/embed/{{ activity.id }}' title='{{ activity.title }}' frameborder='0'></iframe>
+        <iframe src='https://connect.garmin.com/modern/activity/embed/{{ activity.id }}' title='Garmin Activity' frameborder='0'></iframe>
     </div>
   </div>
   {% endfor %}
