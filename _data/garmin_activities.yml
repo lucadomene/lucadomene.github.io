@@ -1,0 +1,6 @@
+- id: "12345678901"
+  title: "Morning Run in Padova"
+  type: "run"
+- id: "12345678902"
+  title: "Weekend Cycle to Venice"
+  type: "cycle"
